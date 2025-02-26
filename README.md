@@ -1,0 +1,5 @@
+Data Visualization: Distribution of Variable (Age/Gender)
+
+In this project, we use a bar chart (or histogram) to visually represent the distribution of a specific variable, such as age or gender, within a population dataset. A bar chart is ideal for categorical variables like gender or occupation, showing the frequency of each category. Meanwhile, a histogram is typically used to visualize the distribution of continuous variables like age or income, helping us to understand how data points are spread across different ranges or intervals.
+
+The chart is generated using Python libraries such as Matplotlib or Seaborn, which are powerful tools for creating informative and clear visual representations of data. These charts allow for a quick and intuitive understanding of the data’s distribution, helping to identify patterns, trends, or outliers. You can customize the chart's appearance by adjusting parameters such as color, labels, and bin sizes (for histograms), making it a versatile tool for data exploration and presentation.
